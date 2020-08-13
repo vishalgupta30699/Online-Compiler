@@ -1,0 +1,1 @@
+javac -classpath c:\tomcat9\webapps\onlineCompiler\WEB-INF\classes;c:\tomcat9\lib\servlet-api.jar; *.java && c:\tomcat9\bin\shutdown.bat && c:\tomcat9\bin\startup.bat

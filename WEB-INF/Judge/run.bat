@@ -1,0 +1,1 @@
+cd \ && cd c://tomcat9//webapps//onlineCompiler//WEB-INF//Judge// && java eg1 <inp.txt> out.txt
